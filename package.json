@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "mocha --recursive --exit --require esm"
+    "test": "mocha --recursive --exit"
   },
   "author": "riaan@entersekt.com",
   "description": "Basic to do list exercise",
